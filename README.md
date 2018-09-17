@@ -1,1 +1,1 @@
-* multiply x * y
+* security token generate
