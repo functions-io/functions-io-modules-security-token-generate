@@ -1,6 +1,6 @@
 {
   "name": "@functions-io-modules/security.token.generate",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "token generate",
   "category": "test",
   "public": true,
