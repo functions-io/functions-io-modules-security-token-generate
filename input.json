@@ -1,7 +1,8 @@
 {
     "type": "object",
     "properties": {
-        "username": {"type": "string", "maximum": 30},
-        "password": {"type": "string", "maximum": 30}
+        "username": {"type": "string", "maximum": 255},
+        "email": {"type": "string", "maximum": 255},
+        "password": {"type": "string", "maximum": 255}
     }
 }
